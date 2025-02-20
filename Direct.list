@@ -5,7 +5,7 @@
 DOMAIN-SUFFIX,time.windows.com
 DOMAIN-SUFFIX,lanzov.com
 DOMAIN-SUFFIX,hao123.com
-DOMAIN-SUFFIX,023168.xyz   # 喜鹊EMBY
+# DOMAIN-SUFFIX,023168.xyz   # 喜鹊EMBY
 DOMAIN-SUFFIX,viclub.top   # 大V影院EMBY
 
 # 域名关键字匹配
