@@ -1,0 +1,11 @@
+# EMBY+公司OA直连
+
+# EMBY
+# 域名后缀匹配
+DOMAIN-KEYWORD,023168.xyz
+DOMAIN-KEYWORD,viclub.top
+
+
+# 公司OA
+
+DOMAIN-KEYWORD,rendongholdings
