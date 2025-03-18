@@ -2,8 +2,9 @@
 
 # EMBY
 # 域名后缀匹配
-DOMAIN-KEYWORD,023168.xyz
-DOMAIN-KEYWORD,viclub.top
+DOMAIN-KEYWORD,023168.xyz  ##喜鹊
+DOMAIN-KEYWORD,viclub.top   ##大V影院
+DOMAIN-SUFFIX,micu.hk     ##MICU
 
 # 公司OA
 DOMAIN-KEYWORD,rendongholdings
