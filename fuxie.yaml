@@ -1,0 +1,15 @@
+# 直接覆盖整个规则
+#rules:
+#  - DOMAIN,baidu.com,DIRECT
+# 将规则插入到原规则前面
++rules:
+  - DOMAIN-KEYWORD,023168.xyz,DIRECT
+  - DOMAIN-KEYWORD,viclub.top,DIRECT
+  - DOMAIN-SUFFIX,micu.hk,DIRECT
+
+  - DOMAIN-KEYWORD,rendongholdings,DIRECT
+  - DOMAIN-KEYWORD,helipay,DIRECT
+
+# 在原规则后面追加规则
+#rules+:
+#  - DOMAIN,baidu.com,DIRECT
