@@ -11,9 +11,11 @@
   - DOMAIN-KEYWORD,helipay,DIRECT
 
   - DOMAIN-SUFFIX,dfkj.live,DIRECT    #体育直播平台
+  - DOMAIN-SUFFIX,u3v.cn,DIRECT    #咸鱼全球通直播
   
 
 # 在原规则后面追加规则
 #rules+:
 
 #  - DOMAIN,baidu.com,DIRECT
+
