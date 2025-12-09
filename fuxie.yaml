@@ -6,6 +6,7 @@
   # - DOMAIN-KEYWORD,023168.xyz,DIRECT
   - DOMAIN-KEYWORD,viclub.top,DIRECT
   - DOMAIN-SUFFIX,micu.hk,DIRECT
+  - DOMAIN-SUFFIX,4.v4sfv872vx.qvnfwcly6khc.d0xv239e2.223789.xyz,DIRECT #喜鹊德国联通直连
 
   - DOMAIN-KEYWORD,rendongholdings,DIRECT
   - DOMAIN-KEYWORD,helipay,DIRECT
@@ -19,5 +20,6 @@
 #rules+:
 
 #  - DOMAIN,baidu.com,DIRECT
+
 
 
